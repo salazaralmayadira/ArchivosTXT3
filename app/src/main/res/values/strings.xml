@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArchivosTXT3</string>
+    <string name="mtitulo">Manejo de Archivos de Taxto</string>
+    <string name="tnombre">"Ingrese su Nombre "</string>
+    <string name="tcontenido">Contenido del Archivo</string>
+    <string name="mgraba">Grabar</string>
+</resources>
